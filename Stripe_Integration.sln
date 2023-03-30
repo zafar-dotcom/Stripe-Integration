@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stripe_Integration", "Stripe_Integration.csproj", "{C961A963-6BEF-4B04-9700-95E14A15B938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C961A963-6BEF-4B04-9700-95E14A15B938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C961A963-6BEF-4B04-9700-95E14A15B938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C961A963-6BEF-4B04-9700-95E14A15B938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C961A963-6BEF-4B04-9700-95E14A15B938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C9148BD-A838-4BFA-A53E-F42709B22AC1}
+	EndGlobalSection
+EndGlobal
